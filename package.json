@@ -1,0 +1,14 @@
+{
+  "name": "wechat-screenshot",
+  "version": "1.0.0",
+  "description": "for my girl friend' work",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ttian99",
+  "license": "ISC",
+  "dependencies": {
+    "gm": "^1.23.0"
+  }
+}
